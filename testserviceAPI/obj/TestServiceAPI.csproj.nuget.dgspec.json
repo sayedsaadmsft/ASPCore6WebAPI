@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ADO\\Microservices\\testserviceAPI\\WebApplication1\\TestServiceAPI.csproj": {}
+    "c:\\ADO\\Microservices\\testserviceAPI\\TestServiceAPI.csproj": {}
   },
   "projects": {
-    "C:\\ADO\\Microservices\\testserviceAPI\\WebApplication1\\TestServiceAPI.csproj": {
+    "c:\\ADO\\Microservices\\testserviceAPI\\TestServiceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ADO\\Microservices\\testserviceAPI\\WebApplication1\\TestServiceAPI.csproj",
+        "projectUniqueName": "c:\\ADO\\Microservices\\testserviceAPI\\TestServiceAPI.csproj",
         "projectName": "TestServiceAPI",
-        "projectPath": "C:\\ADO\\Microservices\\testserviceAPI\\WebApplication1\\TestServiceAPI.csproj",
+        "projectPath": "c:\\ADO\\Microservices\\testserviceAPI\\TestServiceAPI.csproj",
         "packagesPath": "C:\\Users\\sayedsaad\\.nuget\\packages\\",
-        "outputPath": "C:\\ADO\\Microservices\\testserviceAPI\\WebApplication1\\obj\\",
+        "outputPath": "c:\\ADO\\Microservices\\testserviceAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sayedsaad\\AppData\\Roaming\\NuGet\\NuGet.Config",
