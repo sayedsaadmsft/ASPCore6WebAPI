@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\ADO\\Microservices\\testserviceAPI\\TestServiceAPI.csproj": {}
+    "C:\\ADO\\Microservices\\TestServiceAPI\\TestServiceAPI.csproj": {}
   },
   "projects": {
-    "c:\\ADO\\Microservices\\testserviceAPI\\TestServiceAPI.csproj": {
+    "C:\\ADO\\Microservices\\TestServiceAPI\\TestServiceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ADO\\Microservices\\testserviceAPI\\TestServiceAPI.csproj",
+        "projectUniqueName": "C:\\ADO\\Microservices\\TestServiceAPI\\TestServiceAPI.csproj",
         "projectName": "TestServiceAPI",
-        "projectPath": "c:\\ADO\\Microservices\\testserviceAPI\\TestServiceAPI.csproj",
+        "projectPath": "C:\\ADO\\Microservices\\TestServiceAPI\\TestServiceAPI.csproj",
         "packagesPath": "C:\\Users\\sayedsaad\\.nuget\\packages\\",
-        "outputPath": "c:\\ADO\\Microservices\\testserviceAPI\\obj\\",
+        "outputPath": "C:\\ADO\\Microservices\\TestServiceAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sayedsaad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

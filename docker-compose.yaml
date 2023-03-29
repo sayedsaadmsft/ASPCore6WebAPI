@@ -2,6 +2,8 @@ version: '3'
 services:
   testserviceapi:
     build: testserviceAPI/
+    image: eusdmsdevservicescr.azurecr.io/testserviceapi:v1.3
+    container_name: testserviceapi
     ports:
       - "8000:80"
       - "8001:443"

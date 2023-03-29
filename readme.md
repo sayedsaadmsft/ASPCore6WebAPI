@@ -17,14 +17,14 @@ dotnet user-secrets set "Kestrel:Certificates:Development:Password" "test123"
 
 
 ## Setup Azure Container Registry
-1. install AZ-CLI tools
+1. install [AZ-CLI tools](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 2. Use the following ps script to login, and publish to ACR
 ```
 az login
-az account set --subscription xxxxxxx
-az acr login --name=azcontainerregistryname
-docker tag localimage azcontainerregistryname.azurecr.io/imagename:v1.0
-docker push azcontainerregistryname.azurecr.io/imagename:v1.0
+az account set --subscription HC-Dragon-DMS-Dev
+az acr login --name=eusdmsdevservicesCR
+docker tag microservices-testserviceapi eusdmsdevservicesCR.azurecr.io/testserviceapi:v1.0
+docker push eusdmsdevservicesCR.azurecr.io/testserviceapi:v1.0
 ```
 
 ## Swagger
